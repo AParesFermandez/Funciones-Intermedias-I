@@ -70,7 +70,6 @@ def printInfo(some_dict):
         for elemento in lista:
             print(elemento)
 
-# Ejemplo de uso con el diccionario "dojo"
 dojo = {
     'ubicaciones': ['San Jose', 'Seattle', 'Dallas', 'Chicago', 'Tulsa', 'DC', 'Burbank'],
     'instructores': ['Michael', 'Amy', 'Eduardo', 'Josh', 'Graham', 'Patrick', 'Minh', 'Devon']
